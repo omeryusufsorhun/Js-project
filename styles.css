@@ -1,0 +1,37 @@
+.button {
+    float: left;
+    display: flex;
+    width: 100vh;
+    height: 20vh;
+    justify-content: center;
+    background-color: aliceblue;
+    align-items: center;
+}
+
+.button button {
+    background-color: aliceblue;
+    border-radius: 20px;
+    margin-right: 20px;
+    font-size: large;
+    
+    
+}
+.button button:hover{
+    opacity: 1;
+    background-color:antiquewhite
+    
+}
+body{
+    margin-top:250px;
+    background-color: aquamarine;
+    
+}
+
+.container {
+    text-align: center;
+    margin: auto;
+    width: 100vh;
+    justify-content: center;
+    background-color: aliceblue
+    
+}
